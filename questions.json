@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does NLP stand for in the context of artificial intelligence?",
+        "options": ["Natural Language Processing", "Neural Logic Programming", "Network Language Processing", "None of the above"],
+        "answer": "Natural Language Processing"
+    },
+    {
+        "question": "Which machine learning model is primarily used for text classification?",
+        "options": ["Linear Regression", "Logistic Regression", "Convolutional Neural Network", "Support Vector Machine"],
+        "answer": "Support Vector Machine"
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "options": ["Removing tokens from text", "Breaking text into sentences or words", "Encrypting text data", "Translating text from one language to another"],
+        "answer": "Breaking text into sentences or words"
+    },
+    {
+        "question": "Which of the following is an example of a language model?",
+        "options": ["BERT", "PCA", "K-means", "Random Forest"],
+        "answer": "BERT"
+    },
+    {
+        "question": "What task does POS tagging refer to?",
+        "options": ["Part-of-Speech Tagging", "Post-Script Tagging", "Point of Sale Tagging", "None of the above"],
+        "answer": "Part-of-Speech Tagging"
+    },
+    {
+        "question": "What is a common use case for sentiment analysis?",
+        "options": ["Detecting spam emails", "Predicting stock prices", "Understanding emotions in text", "Routing emails in customer support"],
+        "answer": "Understanding emotions in text"
+    },
+    {
+        "question": "What technique is used to transform words into vectors?",
+        "options": ["Word Embedding", "Word Encrypting", "Word Processing", "Word Compressing"],
+        "answer": "Word Embedding"
+    },
+    {
+        "question": "Which framework is commonly used for building chatbots in Python?",
+        "options": ["Django", "Flask", "Rasa", "Spring"],
+        "answer": "Rasa"
+    },
+    {
+        "question": "What is the main purpose of a named entity recognition (NER) system?",
+        "options": ["To classify nouns in a text", "To recognize specific entities like names, organizations, and locations", "To correct grammar in sentences", "To translate names from one language to another"],
+        "answer": "To recognize specific entities like names, organizations, and locations"
+    },
+    {
+        "question": "Which technique is commonly used to deal with unstructured text data?",
+        "options": ["Clustering", "Normalization", "Both A and B", "None of the above"],
+        "answer": "Both A and B"
+    }
+]
